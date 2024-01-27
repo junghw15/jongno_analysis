@@ -1,5 +1,5 @@
 # 종로구 쓰레기통 입지 분석
-> 간략한 프로젝트 소개 문구를 작성합니다.
+> 쓰레기통 분석
 
 [![NPM Version][npm-image]][npm-url]
 [![Build Status][travis-image]][travis-url]
